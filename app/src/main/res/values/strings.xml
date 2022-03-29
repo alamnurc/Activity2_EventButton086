@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SampleConstraintLayout086</string>
+    <string name="app_name">Aplikasi Constraint Layout 086</string>
     <string name="var1">ini pesan</string>
     <string name="bsignin">Sign-In</string>
     <string name="tLogin">LOGIN</string>
@@ -24,4 +24,7 @@
     <string name="detailkontak">Detail Kontak</string>
     <string name="name">Nama</string>
     <string name="notel">Nomor Telepon</string>
+    <string name="label3">Daftar Kontak</string>
+    <string name="label4">Detail Kontak</string>
+    <string name="label5">Pendaftaran</string>
 </resources>

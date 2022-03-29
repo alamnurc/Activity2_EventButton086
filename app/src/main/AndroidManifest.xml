@@ -13,15 +13,16 @@
             android:name=".ItemListviewActivity"
             android:exported="false" />
         <activity android:name=".ActivityLihatData"
-            android:label="@string/label2"
+            android:label="@string/label4"
             android:parentActivityName=".ActivityHome"></activity>
         <activity
             android:name=".ActivityHome"
-            android:label="@string/label2"
+            android:label="@string/label3"
             android:exported="false"
             android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".DaftarActivity"
+            android:label="@string/label5"
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".ActivityKedua"
